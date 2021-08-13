@@ -1,1 +1,1 @@
-setting up
+setting up and creating github account
